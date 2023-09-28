@@ -21,7 +21,7 @@ For example: given this two numbers 123 and 12.
 2. The sum of 123 + 12 it's do it like this [3,2,1] + [0,1,2] => 3+0, 2+1, 1+2 = 333
 
 ##  Possibles improvements
-1. Change the type of property named values in NaturalNumber class from List to Array for performance purposes but depending on a load test and a profiling
+1. Change the type of property named values in NaturalNumber class from List to Array for performance purposes depending on a load test and a profiling
 2. Parametrize the bash scripts
 
 
